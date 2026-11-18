@@ -11,7 +11,7 @@ Clinical prescriptions have a strict de-identification requirement :  you must r
 
 Pharmacon enforces an asymmetric redaction boundary:
 
-- **100% PII Recall**: Redacts patient names, dates of birth, ages, phone numbers, statutory IDs (BSNR, LANR, NHS, Medicare, ABHA, Aadhaar, MRN), physical addresses, administrative staff attributions ("Typed By", "Verified By"), rubber stamps, signatures, and scannable 1D/2D barcodes/QR codes.
+- **100% PII Recall**: Redacts patient names, their dates of birth, ages, phone numbers, statutory IDs (BSNR, LANR, NHS, Medicare, ABHA, Aadhaar, MRN), physical addresses, administrative staff attributions ("Typed By", "Verified By"), rubber stamps, signatures, and scannable 1D/2D barcodes/QR codes.
 - **Strict Clinical Preservation**: Preserves 100% of medication names, strengths, dosage units, frequency regimens, routes of administration, and diagnostic findings.
 
 The engine meets statutory de-identification standards across multiple healthcare jurisdictions:
