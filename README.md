@@ -15,6 +15,7 @@ Pharmacon enforces an asymmetric redaction boundary:
 - **Strict Clinical Preservation**: Preserves 100% of medication names, strengths, dosage units, frequency regimens, routes of administration, and diagnostic findings.
 
 The engine meets statutory de-identification standards across multiple healthcare jurisdictions:
+
 - **HIPAA Safe Harbor** (45 CFR § 164.514(b))
 - **GDPR Article 9 & Article 89** (Health data processing for scientific research)
 - **Indian Digital Personal Data Protection (DPDP) Act 2023** & **ABHA / ABDM**
